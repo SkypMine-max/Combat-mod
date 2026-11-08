@@ -2,6 +2,8 @@
 
 Skypmine Combat Addon is a Minecraft Fabric combat mod featuring Crystal Aura, KillAura, TriggerBot, FastEat, AntiBlind, and E-Chest Farmer, with customizable settings for combat automation and inventory management.
 
+NEW : NOW HAS FRIEND / ENEMY Detection and has protection (too lazy to explain more)
+
 A Minecraft Fabric combat addon featuring six modules designed for different PvP situations:
 
 - **Custom Crystal Aura** – An advanced crystal combat module with three modes:
