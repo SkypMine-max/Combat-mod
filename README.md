@@ -16,5 +16,7 @@ A Minecraft Fabric combat addon featuring six modules designed for different PvP
 - **Custom TriggerBot** – Automatically attacks when your crosshair is on a target.
 - **Custom AntiBlind** – Prevents blindness effects from obstructing your vision.
 - **FastEat** – Speeds up eating.
+- **Tnt Maniac** – Places tnt like a maniac
+
 
 Built for Minecraft Fabric, with configurable settings for different combat situations.
