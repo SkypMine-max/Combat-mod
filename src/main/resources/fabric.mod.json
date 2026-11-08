@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "name": "Skypmine's Combat Addon",
+  "id": "meteor-litematica-printer",
+  "version": "1.0.0",
+  "description": "Trigger bot, kill aura, anti blind and crystal aura. Made by skypmine.",
+  "authors": [
+    "skypmine"
+  ],
+  "contact": {
+    "repo": "https://github.com/kkllffaa/meteor-litematica-printer"
+  },
+  "icon": "assets/meteor_litematica_printer/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "com.kkllffaa.meteor_litematica_printer.Addon"
+    ]
+  },
+  "depends": {
+    "java": ">=25",
+    "minecraft": ">=26.1.2",
+    "meteor-client": "*"
+  }
+}
